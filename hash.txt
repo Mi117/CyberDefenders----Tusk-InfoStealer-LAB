@@ -1,0 +1,4 @@
+MD5: E5B8B2CF5B244500B22B665C87C11767
+
+
+Use this hash on online threat intel platforms (e.g., VirusTotal, Hybrid Analysis) to complete the lab analysis.
