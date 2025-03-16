@@ -73,8 +73,8 @@ Sophisticated Techniques
 - Cloud Storage for Malware Hosting: The campaign leverages cloud services like Dropbox to host initial downloader files. Once downloaded, these files facilitate the installation of additional malware on the victim's device, often without raising suspicion due to their user-friendly interfaces.
 - Multi-Stage Delivery Mechanisms: The attackers employ complex, multi-stage delivery mechanisms to evade detection. This involves injecting malicious code into legitimate programs and communicating with command and control (C2) servers to download additional malware components.
 
-Targeting Cryptocurrency
-Cryptocurrency Credentials and Wallet Information: The primary focus of the Tusk campaign is to steal cryptocurrency credentials and wallet information. This allows the attackers to access and drain funds from compromised wallets, resulting in significant financial losses for victims.
+- Targeting Cryptocurrency Credentials and Wallet Information: The primary focus of the Tusk campaign is to steal cryptocurrency credentials and wallet information. This allows the attackers to access and drain funds from compromised wallets, resulting in significant financial losses for victims.
+- 
 - Clipper Malware: The campaign also utilizes clipper malware, which monitors clipboard data. If a user copies a cryptocurrency wallet address, the malware substitutes it with a malicious address, further facilitating unauthorized transactions.
 
 Evidence of Careful Planning
