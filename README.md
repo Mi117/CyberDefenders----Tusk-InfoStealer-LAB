@@ -32,7 +32,6 @@ According to the Kaspersky report, three active sub-campaigns have been identifi
 
 The first sub-campaign is the simulation of the of a DAO platform on the MultiversX blockchain and the the malicious website created to mimic the legitimate peerme.io platform is "tydyme.io".
 
-![q3-2](https://github.com/user-attachments/assets/6a7dad6e-97bd-4513-9101-41c6f5be35d8)
 ![q3-3](https://github.com/user-attachments/assets/11ba101b-86aa-4029-8f85-8db331047462)
 
 Q4) Which cloud storage service did the campaign operators use to host malware samples for both macOS and Windows OS versions?
