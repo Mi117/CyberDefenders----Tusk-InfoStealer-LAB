@@ -73,7 +73,7 @@ Sophisticated Techniques
 - Multi-Stage Delivery Mechanisms: The attackers employ complex, multi-stage delivery mechanisms to evade detection. This involves injecting malicious code into legitimate programs and communicating with command and control (C2) servers to download additional malware components.
 
 - Targeting Cryptocurrency Credentials and Wallet Information: The primary focus of the Tusk campaign is to steal cryptocurrency credentials and wallet information. This allows the attackers to access and drain funds from compromised wallets, resulting in significant financial losses for victims.
-- 
+
 - Clipper Malware: The campaign also utilizes clipper malware, which monitors clipboard data. If a user copies a cryptocurrency wallet address, the malware substitutes it with a malicious address, further facilitating unauthorized transactions.
 
 Evidence of Careful Planning
@@ -81,3 +81,6 @@ The Tusk campaign demonstrates meticulous planning and execution. The attackers 
 
 This campaign highlights the evolving threat landscape in the cryptocurrency and blockchain sectors. Its sophisticated techniques and targeted approach underscore the need for heightened vigilance and robust security measures to protect against such threats. As the campaign continues to evolve, it is crucial for organizations and individuals to remain informed and proactive in defending against these advanced cyber threats.
 
+I want to thank the team of CyberDefenders.org and the challenge creators for a concise, yet insightful Lab as the practical application of concepts made this far more valuable than theoretical learning alone. I appreciate the time and effort put into creating such a valuable resource for the cybersecurity community. Thank you for contributing to my growth as a blue team analyst!
+
+I hope you found this walkthrough insightful as well! If you found this content helpful, please consider giving it a clap! Your feedback is invaluable and motivates me to continue supporting your journey in the cybersecurity community. Remember, LET'S ALL BE MORE SECURE TOGETHER! For more insights and updates on cybersecurity analysis, follow me on Substack! [https://substack.com/@atlasprotect?r=1f5xo4&utm_campaign=profile&utm_medium=profile-page]
